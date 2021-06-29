@@ -3,6 +3,12 @@
 ## Flask Web ChatBot
 https://app-moviebot.herokuapp.com/
 
+## Telegram ChatBot
+https://drive.google.com/file/d/1FtfDVyM1T5nMMZRpXtKudK2ckcygEi4K/view?usp=sharing
+
+## Messenger ChatBot
+https://youtu.be/8touRBf7c0Y
+
 ## Repl Web ChatBot
 https://chatbot.vamsijavvadi.repl.co/
 
